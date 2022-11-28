@@ -10,7 +10,5 @@ Add it in your root build.gradle at the end of repositories:
 　　} <br>
 
 ## Step 2. Add the dependency
-***
-<br>
 implementation 'com.github.QuexSong:HttpLib:v.0.0.1' <br>
   
